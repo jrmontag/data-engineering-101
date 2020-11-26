@@ -105,7 +105,7 @@ traits==4.4.0
 traitsui==4.4.0
 ujson==1.33
 unicodecsv==0.9.4
-Werkzeug==0.9.6
+Werkzeug==0.15.3
 xlrd==0.9.3
 XlsxWriter==0.5.7
 xlwt==0.7.5
