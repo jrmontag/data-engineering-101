@@ -81,7 +81,7 @@ pytest==2.6.3
 python-daemon==2.0.5
 python-dateutil==1.5
 pytz==2014.9
-PyYAML==3.11
+PyYAML==5.1
 pyzmq==14.3.1
 redis==2.9.1
 requests==2.5.1
