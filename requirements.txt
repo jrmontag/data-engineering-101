@@ -27,7 +27,7 @@ decorator==3.4.0
 docutils==0.12
 enable==4.3.0
 enaml==0.9.8
-Flask==0.10.1
+Flask==1.0
 future==0.13.1
 futures==2.1.6
 gevent==1.0.1
